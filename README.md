@@ -1,4 +1,4 @@
-Hello! I’m @GwinProGrammer
+Hello! I’m @GwinProGrammer.
 I'm a senior CS and Math major at RPI. My interests involve software design and engineering, full stack development, and algorithm research. 
 
 You can find my linkedin here: https://www.linkedin.com/in/gwin-promprated-722a8924b/
